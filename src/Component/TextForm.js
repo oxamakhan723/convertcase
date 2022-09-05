@@ -55,7 +55,7 @@ function TextForm(props) {
         <button className='btn btn-primary my-3 mx-3' onClick={handleLoClick}>Convert LowerCase</button>
         <button className='btn btn-primary my-3' onClick={handleReverse}>Reverse Text</button>
         <button className="btn btn-warning my-3 mx-3" onClick={speak} >Speak</button>
-        <button className='btn btn-danger my-3' onClick={handleClickClear}>CLear Text</button>
+        <button className='btn btn-danger my-3' onClick={handleClickClear}>Clear Text</button>
 
 
       </div>
